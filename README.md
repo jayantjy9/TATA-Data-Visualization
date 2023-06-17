@@ -22,19 +22,28 @@ Based on the four questions posed by the CEO and CMO, I created visuals that add
 **Question 1**
 
 The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue for each month. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur. This analysis will be helpful for the CEO to forecast for the next year.
+![image](https://github.com/jayantjy9/TATA-Virtual_Internship/assets/118092998/efe96d64-f220-452a-8021-0f36a03e428d)
+
 
 
 **Question 2**
 
 The CMO is interested in viewing the top 10 countries which are generating the highest revenue. Additionally, the CMO is also interested in viewing the quantity sold along with the revenue generated. The CMO does not want to have the United Kingdom in this visual.
+![image](https://github.com/jayantjy9/TATA-Virtual_Internship/assets/118092998/5f7e65c0-b13f-4c95-82cc-fd1befbc5fce)
+
+
 
 **Question 3**
 
 The CMO of the online retail store wants to view the information on the top 10 customers by revenue. He is interested in a visual that shows the greatest revenue generating customer at the start and gradually declines to the lower revenue generating customers. The CMO wants to target the higher revenue generating customers and ensure that they remain satisfied with their products.
+![image](https://github.com/jayantjy9/TATA-Virtual_Internship/assets/118092998/f1dc6cc5-d984-4eed-ac32-92c521e52c92)
+
 
 **Question 4**
 
 The CEO is looking to gain insights on the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products. Once the CEO gets an idea of the regions that have high demand, he will initiate an expansion strategy which will allow the company to target these areas and generate more business from these regions. He wants to view the entire data on a single view without the need to scroll or hover over the data points to identify the demand. There is no need to show data for the United Kingdom as the CEO is more interested in viewing the countries that have expansion opportunities.
+![image](https://github.com/jayantjy9/TATA-Virtual_Internship/assets/118092998/3e2dd5a5-5baf-4d8f-82bc-b3fb6243622b)
+
 
 <br>
 
